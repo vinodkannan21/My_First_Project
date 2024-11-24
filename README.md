@@ -1,4 +1,7 @@
 # My_First_Project
+
+Stable version: e1554f7
+
 REQUIRED MODULES:
 pip install mysql-connector-python
 pip install pymysql
